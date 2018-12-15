@@ -1,5 +1,13 @@
 # Bitnation-Future-Governance-Expedition
 
+Areas of research:
+
+- Special Digital Zone (SDZ)
+- Jurisdiction In A Box
+- Initial Nation Offering (INO)
+- Temporary Autonomous Zone (TAZ)
+- Gamifying Good Governance (GGG) with AI
+- Scaling Dunbar
 
 ## The rapid shifts of recent years has created a new world. Yet we are running it on an old operating system.
 
@@ -14,3 +22,5 @@ In August Bitnation Future Governance Expedition launches, dedicated to systemat
 _"Having spent the last years at GCF, mapping governance innovation initiatives in over 180 countries, it’s become clear to me that the time is right to mobilise the wealth of ideas into common action across borders and institutions. The Bitnation Future Governance Expedition aims to systematise, synthesize, and prepare suggested upgrades to current governance, ranging from general aspects such as citizenship, automation, trust, and privacy – to the more detailed ins and outs of specific implementations."_
 
 — Carin Ism, Director of BFGE
+
+
