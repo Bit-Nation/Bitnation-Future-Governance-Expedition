@@ -7,6 +7,7 @@ Areas of research:
 - Initial Nation Offering (INO)
 - Temporary Autonomous Zone (TAZ)
 - Gamifying Good Governance (GGG) with AI
+- World Citizenship
 - Scaling Dunbar
 
 ## The rapid shifts of recent years has created a new world. Yet we are running it on an old operating system.
