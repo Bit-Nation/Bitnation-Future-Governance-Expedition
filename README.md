@@ -2,7 +2,7 @@
 
 Areas of research:
 
-- Special Digital Zone (SDZ)
+- [Special Blockchain Zone (SBZ)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Special%20Digital%20Zone%20(SDZ).md)
 - Jurisdiction In A Box
 - Initial Nation Offering (INO)
 - Temporary Autonomous Zone (TAZ)
