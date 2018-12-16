@@ -4,6 +4,7 @@ Areas of research:
 
 - [Special Blockchain Zone (SBZ)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Special%20Digital%20Zone%20(SDZ).md)
 - [Jurisdiction In A Box](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Jurisdiction%20In%20A%20Box.md)
+- [Jurisdiction As A Service (JAAS)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Jurisdiction%20As%20A%20Service%20(JAAS).md)
 - [Initial Nation Offering (INO)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Initial%20Nation%20Offering.md)
 - [Temporary Autonomous Zone (TAZ)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Temporary%20Autonomous%20Zone%20(TAZ).md)
 - [Gamifying Good Governance (GGG)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Gamifying%20Good%20Governance%20(GGG).md)
