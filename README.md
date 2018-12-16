@@ -6,7 +6,7 @@ Areas of research:
 - [Jurisdiction In A Box](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Jurisdiction%20In%20A%20Box.md)
 - [Initial Nation Offering (INO)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Initial%20Nation%20Offering.md)
 - [Temporary Autonomous Zone (TAZ)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Temporary%20Autonomous%20Zone%20(TAZ).md)
-- Gamifying Good Governance (GGG) with AI
+- [Gamifying Good Governance (GGG)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Gamifying%20Good%20Governance%20(GGG).md)
 - World Citizenship
 - Scaling Dunbar
 
