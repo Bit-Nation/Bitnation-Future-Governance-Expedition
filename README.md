@@ -9,7 +9,7 @@ Areas of research:
 - [Temporary Autonomous Zone (TAZ)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Temporary%20Autonomous%20Zone%20(TAZ).md)
 - [Gamifying Good Governance (GGG)](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Gamifying%20Good%20Governance%20(GGG).md)
 - [World Citizenship](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/World%20Citizenship.md)
-- [Scaling Dunbar]
+- [Scaling Dunbar](https://github.com/Bit-Nation/Bitnation-Future-Governance-Expedition/blob/master/Scaling%20Dunbar.md)
 
 ## The rapid shifts of recent years has created a new world. Yet we are running it on an old operating system.
 
